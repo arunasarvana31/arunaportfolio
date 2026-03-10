@@ -13,7 +13,7 @@ const skills = [
 const projects = [
   {
     title: "KENZO",
-    duration: "Sept 2023 – Nov 2026",
+    duration: "Sept 2023 – Feb 2026",
     tech: ["Java", "Selenium", "POM", "Cucumber", "Git"],
     description:
       "Web application automation for a luxury fashion brand's boutique e-commerce platform. Automated testing across desktop, mobile and tablet devices for merchandise and services.",
