@@ -517,7 +517,7 @@ export default function ArunaPortfolio() {
                 <div className="flex-1">
                   <p className="text-xl font-bold text-white">Software Test Engineer</p>
                   <p className="text-violet-400 font-medium">Versuche technologies pvt ltd, Chennai</p>
-                  <p className="text-gray-500 text-sm mt-1">Feb 2021 – march 2026</p>
+                  <p className="text-gray-500 text-sm mt-1">Feb 2021 - Present</p>
                   <p className="text-gray-400 text-sm mt-3 leading-relaxed">
                     Participated in all Agile ceremonies — planning, daily scrum, sprint delivery and reporting. Collaborated with developers, testers, and stakeholders to enhance software product quality.
                   </p>
